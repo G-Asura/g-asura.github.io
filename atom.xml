@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Asura</title>
+  
+  
+  <link href="http://gasura.cn/atom.xml" rel="self"/>
+  
+  <link href="http://gasura.cn/"/>
+  <updated>2021-10-27T06:29:07.534Z</updated>
+  <id>http://gasura.cn/</id>
+  
+  <author>
+    <name>Asura</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>云原生的前世今生</title>
+    <link href="http://gasura.cn/2021/10/27/%E4%BA%91%E5%8E%9F%E7%94%9F%E7%9A%84%E6%9D%A5%E4%B8%96%E4%BB%8A%E7%94%9F/"/>
+    <id>http://gasura.cn/2021/10/27/%E4%BA%91%E5%8E%9F%E7%94%9F%E7%9A%84%E6%9D%A5%E4%B8%96%E4%BB%8A%E7%94%9F/</id>
+    <published>2021-10-27T06:10:44.000Z</published>
+    <updated>2021-10-27T06:29:07.534Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="云原生"><a href="#云原生" class="headerlink" title="云原生"></a>云原生</h2><h2 id="前世"><a href="#前世" class="headerlink" title="前世"></a>前世</h2><h2 id="今生"><a href="#今生" class="headerlink" title="今生"></a>今生</h2><h2 id="来世"><a href="#来世" class="headerlink" title="来世"></a>来世</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;云原生&quot;&gt;&lt;a href=&quot;#云原生&quot; class=&quot;headerlink&quot; title=&quot;云原生&quot;&gt;&lt;/a&gt;云原生&lt;/h2&gt;&lt;h2 id=&quot;前世&quot;&gt;&lt;a href=&quot;#前世&quot; class=&quot;headerlink&quot; title=&quot;前世&quot;&gt;&lt;/a&gt;前世&lt;/h2&gt;&lt;h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
