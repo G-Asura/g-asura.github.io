@@ -46,13 +46,6 @@
 
   
   <url>
-    <loc>https://gasura.cn/tags/OSI/</loc>
-    <lastmod>2022-04-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://gasura.cn/tags/Linux/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
@@ -66,17 +59,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://gasura.cn/tags/OSI/</loc>
+    <lastmod>2022-04-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://gasura.cn/categories/OSI/</loc>
+    <loc>https://gasura.cn/categories/Container/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gasura.cn/categories/Container/</loc>
+    <loc>https://gasura.cn/categories/OSI/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
