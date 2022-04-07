@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gasura.cn/2022/04/05/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%E5%AF%B9%E6%AF%94/</loc>
+    <loc>https://gasura.cn/about/index.html</loc>
     
     <lastmod>2022-04-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gasura.cn/2022/04/05/%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/</loc>
+    <loc>https://gasura.cn/post/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%E5%AF%B9%E6%AF%94/index.html</loc>
     
     <lastmod>2022-04-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gasura.cn/about/index.html</loc>
+    <loc>https://gasura.cn/post/%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/index.html</loc>
     
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2022-04-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gasura.cn/tags/index.html</loc>
+    <loc>https://gasura.cn/tags/index.html</loc>
     
     <lastmod>2021-10-27</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gasura.cn/categories/index.html</loc>
+    <loc>https://gasura.cn/categories/index.html</loc>
     
     <lastmod>2021-10-27</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>http://gasura.cn/</loc>
+    <loc>https://gasura.cn/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,14 +46,21 @@
 
   
   <url>
-    <loc>http://gasura.cn/tags/OSI/</loc>
+    <loc>https://gasura.cn/tags/OSI/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://gasura.cn/tags/Container/</loc>
+    <loc>https://gasura.cn/tags/Linux/</loc>
+    <lastmod>2022-04-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/Container/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,21 +69,14 @@
 
   
   <url>
-    <loc>http://gasura.cn/categories/OSI/</loc>
+    <loc>https://gasura.cn/categories/OSI/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://gasura.cn/categories/Linux/</loc>
-    <lastmod>2022-04-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://gasura.cn/categories/Linux/Container/</loc>
+    <loc>https://gasura.cn/categories/Container/</loc>
     <lastmod>2022-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
