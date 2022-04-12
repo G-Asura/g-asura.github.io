@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gasura.cn/post/Cilium%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.html</loc>
+    
+    <lastmod>2022-04-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gasura.cn/post/%E8%AE%A9%E5%86%85%E6%A0%B8%E5%BC%80%E5%8F%91%E5%8F%98%E7%9A%84%E7%AE%80%E5%8D%95%E7%9A%84eBPF.html</loc>
     
     <lastmod>2022-04-12</lastmod>
@@ -60,6 +67,27 @@
 
   
   <url>
+    <loc>https://gasura.cn/tags/CNI/</loc>
+    <lastmod>2022-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/eBPF/</loc>
+    <lastmod>2022-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/Kubernetes/</loc>
+    <lastmod>2022-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gasura.cn/tags/Linux/</loc>
     <lastmod>2022-04-12</lastmod>
     <changefreq>daily</changefreq>
@@ -68,6 +96,13 @@
   
   <url>
     <loc>https://gasura.cn/tags/Container/</loc>
+    <lastmod>2022-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/OSI/</loc>
     <lastmod>2022-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -94,31 +129,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://gasura.cn/tags/OSI/</loc>
-    <lastmod>2022-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gasura.cn/tags/eBPF/</loc>
-    <lastmod>2022-04-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://gasura.cn/categories/Container/</loc>
+    <loc>https://gasura.cn/categories/eBPF/</loc>
     <lastmod>2022-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gasura.cn/categories/Monitor/</loc>
+    <loc>https://gasura.cn/categories/Container/</loc>
     <lastmod>2022-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -132,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://gasura.cn/categories/eBPF/</loc>
+    <loc>https://gasura.cn/categories/Monitor/</loc>
     <lastmod>2022-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
