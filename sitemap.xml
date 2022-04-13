@@ -67,7 +67,7 @@
 
   
   <url>
-    <loc>https://gasura.cn/tags/Linux/</loc>
+    <loc>https://gasura.cn/tags/CNI/</loc>
     <lastmod>2022-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -75,6 +75,20 @@
   
   <url>
     <loc>https://gasura.cn/tags/eBPF/</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/Kubernetes/</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/Linux/</loc>
     <lastmod>2022-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -89,20 +103,6 @@
   
   <url>
     <loc>https://gasura.cn/tags/OSI/</loc>
-    <lastmod>2022-04-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gasura.cn/tags/CNI/</loc>
-    <lastmod>2022-04-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gasura.cn/tags/Kubernetes/</loc>
     <lastmod>2022-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

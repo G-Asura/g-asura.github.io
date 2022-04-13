@@ -36,9 +36,9 @@
     <category term="eBPF" scheme="https://gasura.cn/categories/eBPF/"/>
     
     
-    <category term="eBPF" scheme="https://gasura.cn/tags/eBPF/"/>
-    
     <category term="CNI" scheme="https://gasura.cn/tags/CNI/"/>
+    
+    <category term="eBPF" scheme="https://gasura.cn/tags/eBPF/"/>
     
     <category term="Kubernetes" scheme="https://gasura.cn/tags/Kubernetes/"/>
     
@@ -64,9 +64,9 @@
     <category term="eBPF" scheme="https://gasura.cn/categories/eBPF/"/>
     
     
-    <category term="Linux" scheme="https://gasura.cn/tags/Linux/"/>
-    
     <category term="eBPF" scheme="https://gasura.cn/tags/eBPF/"/>
+    
+    <category term="Linux" scheme="https://gasura.cn/tags/Linux/"/>
     
   </entry>
   
