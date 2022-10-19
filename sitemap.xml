@@ -74,6 +74,27 @@
 
   
   <url>
+    <loc>https://gasura.cn/tags/Monitor/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/Prometheus/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gasura.cn/tags/Metrics/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gasura.cn/tags/CNI/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
@@ -129,28 +150,14 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://gasura.cn/tags/Monitor/</loc>
-    <lastmod>2022-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gasura.cn/tags/Prometheus/</loc>
-    <lastmod>2022-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gasura.cn/tags/Metrics/</loc>
-    <lastmod>2022-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
+  
+  <url>
+    <loc>https://gasura.cn/categories/Monitor/</loc>
+    <lastmod>2022-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://gasura.cn/categories/eBPF/</loc>
@@ -175,13 +182,6 @@
   
   <url>
     <loc>https://gasura.cn/categories/OSI/</loc>
-    <lastmod>2022-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gasura.cn/categories/Monitor/</loc>
     <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
